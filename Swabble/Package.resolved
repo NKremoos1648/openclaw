@@ -6,7 +6,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/steipete/Commander.git",
       "state" : {
-        "revision" : "9e349575c8e3c6745e81fe19e5bb5efa01b078ce",
+        "revision" : "xxGXRAXVJfY9MQuRq7K7nurVkzYTQu====/npqRUa7HM8h5NUHrf9cqbn4JL6hdBKqHhTh9eikESgEg9Vaf3LRSmHAGUbdN/AH5RDetv3XUPQ3Gjpnz2tB3YXQDynz3mB2CWjgsmx7fuLXLjRhr9f34==",
         "version" : "0.2.1"
       }
     },
@@ -15,7 +15,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/steipete/ElevenLabsKit",
       "state" : {
-        "revision" : "7e3c948d8340abe3977014f3de020edf221e9269",
+        "revision" : "bjiyySE7i6QRhgv6qgBErYp2Ayt2ih====/k4e2CB7XXRiqB4kGm65Tje4TaK2MpJAH85Avi6UcXBD2sc3Mg86ar7LxvRKUVMQKccmVC6d2Jjeba7XSLtiH774bq5LTEmSz4bAgkmLktmmrLcwqRhPEh==",
         "version" : "0.1.0"
       }
     },
@@ -24,7 +24,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-concurrency-extras",
       "state" : {
-        "revision" : "5a3825302b1a0d744183200915a47b508c828e6f",
+        "revision" : "hKiTvyXSaVfYeJMxZC5zsDRtYPJxP3====/VZnpTEiZdE6TABydn8rApTLvhMEwQGTEUnXCDhtGHqRxuTQjq/qWBe9p7Y7m/SB9/ZDQDyjguV/GYbGy3WwLzqwWvCmbtTBDSg6PJvfnqPzHwLKpsg5QB==",
         "version" : "1.3.2"
       }
     },
@@ -33,7 +33,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftlang/swift-syntax.git",
       "state" : {
-        "revision" : "0687f71944021d616d34d922343dcef086855920",
+        "revision" : "fHw7dk86Dj3X6JAphyvDfK5irMMTIw====/a77sqwmWLyxMisqVDG74tdYAkRufyTr2RMXJv0dwrlbFTSk/G/FUEl7qCHqTWDffKgZ2ya4brNmqdgjwgytVgsBwJdhJMxw62jLOZUjMhV+2Asn3qSwXw==",
         "version" : "600.0.1"
       }
     },
@@ -42,7 +42,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-testing",
       "state" : {
-        "revision" : "399f76dcd91e4c688ca2301fa24a8cc6d9927211",
+        "revision" : "pjvY8FATYG7AVjtv7zvQvrydgZGf7M====/6aRVjsbkd94GTYuDHTvtRQLBzadf5Nxek399gsPSYDQnBrJqXiKQUXM59Q7YkD/uZaCkRk/qZHHLzzn2A8UiVZRcSS8FQxHXhhJhd2qjLJAXdKpSajMAHNK==",
         "version" : "0.99.0"
       }
     },
@@ -51,7 +51,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/gonzalezreal/swiftui-math",
       "state" : {
-        "revision" : "0b5c2cfaaec8d6193db206f675048eeb5ce95f71",
+        "revision" : "SXr2RGn7VZsxTSvBgHfqbC7UXPJdFa====/4gNuFRZGyZWDbZExxYPN6nZndQPZ2Y7gEWigVRZUevEzvYX26PW6pcwtPCYL5AGJmGSeiSPcBWmbWHR9PQTjnVcwYa7dDrk3thR4uN86WC8stsx==",
         "version" : "0.1.0"
       }
     },
@@ -60,7 +60,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/gonzalezreal/textual",
       "state" : {
-        "revision" : "5b06b811c0f5313b6b84bbef98c635a630638c38",
+        "revision" : "utA2QeXu/R6NCA8QtBAiZdPQ4L3p2DwV====/BFSyBmnutH4AgJqHJ6c2DFzkeiY3ebQLqR9FpqBHqkHFt/DVvRKUVMEi4MKWsBRR2CNRKW4ZihZaCkRk/qZHHdPC8stsx==",
         "version" : "0.3.1"
       }
     }
